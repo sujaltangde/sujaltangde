@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujal Tangde</h1>
-<h3 align="center">Hello there, my name is Sujal. I have completed my Bachelor of Computer Applications (BCA) from City Premier College. I am a Full Stack Developer with a strong focus on building efficient UIs as well as modular and scalable backend services. I have over 6 months of experience, gained from working with two companies where I utilized my skills extensively. I am well-versed in the MERN stack. During my college days, I won two hackathons and helped my team achieve a 10th place rank in another. I work well both individually and as part of a team. Currently, I am exploring new technologies in web development to enhance my skills. I am also solving Data Structures and Algorithms problems daily to improve my problem-solving abilities. I am seeking a challenging opportunity where I can leverage my skills and experience to contribute to innovative projects.</h3>
+<h1 align="center">Hi 👋! My name is Sujal Tangde, and I'm a Software Engineer from 🇮🇳</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaltangde&label=Profile%20views&color=0e75b6&style=flat" alt="sujaltangde" /> </p>
 
