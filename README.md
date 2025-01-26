@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Sujal Tangde, and I'm a Software Engineer from 🇮🇳</h1>
+<h2 align="center">Hi 👋! My name is Sujal Tangde, and I'm a Software Engineer from 🇮🇳</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaltangde&label=Profile%20views&color=0e75b6&style=flat" alt="sujaltangde" /> </p>
 
