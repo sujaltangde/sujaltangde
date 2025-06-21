@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **sujaltagade01@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10_ojJUIroDlyuqyXSI6IkI9IM1G1mzum/view)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaltangde&label=Profile%20views&color=0e75b6&style=flat" alt="sujaltangde" /> </p>
 
